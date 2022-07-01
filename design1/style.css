@@ -109,6 +109,7 @@ small a {
 	}
 	#form {
 		/* background-color: aqua; */
+		min-height: 70vh;
 		width: 88%;
 	}
 	#form span {
@@ -128,6 +129,8 @@ small a {
 		font-size: 12px;
 	}
 	#form form {
+		/* justify-content: space-around; */
+		min-height: 50vh;
 		padding: 20px;
 	}
 	input {
