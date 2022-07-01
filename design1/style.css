@@ -3,7 +3,7 @@ body {
 }
 
 main {
-	background-image: url("design1/images/bg-intro-desktop.png");
+	background-image: url("images/bg-intro-desktop.png");
 	background-color: hsl(0, 100%, 74%);
 	display: flex;
 	justify-content: space-around;
@@ -100,7 +100,7 @@ small a {
 
 @media (max-width: 375px) {
 	main {
-		background-image: url("design1/images/bg-intro-mobile.png");
+		background-image: url("images/bg-intro-mobile.png");
 		flex-direction: column;
 		padding: 12vh 1vw;
 	}
